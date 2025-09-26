@@ -1,0 +1,8 @@
+azure-identity==1.15.0
+azure-mgmt-compute==29.1.0
+azure-mgmt-resource==23.1.0
+flask==2.3.3
+flask-cors==4.0.1
+mysql-connector-python==8.3.0
+requests==2.31.0
+python-dotenv==1.0.1
